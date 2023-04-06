@@ -22,7 +22,7 @@ public class PlayerAttackState : State
 
        // duration = _playerController.Animator.GetCurrentAnimatorStateInfo(0).length;   //prende il tempo di idle, forse perchè sono messi a livello di codice troppo attaccati
 
-        Debug.Log(duration);
+        //Debug.Log(duration);
 
 
 
